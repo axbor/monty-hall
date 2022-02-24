@@ -21,7 +21,6 @@ class SimulationServiceImplTest {
     @Mock
     private GameFactory gameFactory;
 
-
     @Test
     void simulateWhenNotChangingAndWinning() {
         when(gameFactory.create()).thenReturn(new Game(0, 0));
