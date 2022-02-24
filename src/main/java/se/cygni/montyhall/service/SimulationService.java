@@ -1,4 +1,4 @@
-package com.example.demo.service;
+package se.cygni.montyhall.service;
 
 public interface SimulationService {
 

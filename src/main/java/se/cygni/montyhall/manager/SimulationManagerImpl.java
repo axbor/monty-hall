@@ -1,7 +1,7 @@
-package com.example.demo.manager;
+package se.cygni.montyhall.manager;
 
-import com.example.demo.service.SimulationService;
-import com.example.demo.utility.SimulatorUtil;
+import se.cygni.montyhall.service.SimulationService;
+import se.cygni.montyhall.utility.SimulatorUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

@@ -1,4 +1,4 @@
-package com.example.demo.utility;
+package se.cygni.montyhall.utility;
 
 import org.springframework.stereotype.Component;
 

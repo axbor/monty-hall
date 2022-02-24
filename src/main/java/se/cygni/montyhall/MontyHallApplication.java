@@ -1,6 +1,6 @@
-package com.example.demo;
+package se.cygni.montyhall;
 
-import com.example.demo.manager.SimulationManagerImpl;
+import se.cygni.montyhall.manager.SimulationManagerImpl;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class MontyHallApplication {

@@ -1,4 +1,4 @@
-package com.example.demo.model;
+package se.cygni.montyhall.model;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package com.example.demo.manager;
+package se.cygni.montyhall.manager;
 
 public interface SimulationManager {
 

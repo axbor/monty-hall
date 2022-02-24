@@ -1,7 +1,7 @@
-package com.example.demo.service;
+package se.cygni.montyhall.service;
 
-import com.example.demo.factory.GameFactory;
-import com.example.demo.model.Game;
+import se.cygni.montyhall.factory.GameFactory;
+import se.cygni.montyhall.model.Game;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

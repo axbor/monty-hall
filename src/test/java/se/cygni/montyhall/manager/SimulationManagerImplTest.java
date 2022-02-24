@@ -1,6 +1,6 @@
-package com.example.demo.manager;
+package se.cygni.montyhall.manager;
 
-import com.example.demo.service.SimulationService;
+import se.cygni.montyhall.service.SimulationService;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;

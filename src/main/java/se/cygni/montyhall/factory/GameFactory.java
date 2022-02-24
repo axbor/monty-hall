@@ -1,6 +1,6 @@
-package com.example.demo.factory;
+package se.cygni.montyhall.factory;
 
-import com.example.demo.model.Game;
+import se.cygni.montyhall.model.Game;
 import org.springframework.stereotype.Component;
 
 @Component
