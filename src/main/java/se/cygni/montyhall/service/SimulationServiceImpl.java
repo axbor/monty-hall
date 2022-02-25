@@ -23,8 +23,7 @@ public class SimulationServiceImpl implements SimulationService {
         final int priceBox = game.getPriceBox();
         if (changeBox) {
             return playerChoice != priceBox;
-        } else {
-            return playerChoice == priceBox;
         }
+        return playerChoice == priceBox;
     }
 }
